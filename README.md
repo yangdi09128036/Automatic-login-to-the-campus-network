@@ -28,10 +28,7 @@ git clone https://github.com/yangdi09128036/Automatic-login-to-the-campus-networ
 cd Automatic-login-to-the-campus-network
 ```
 
-2. 安装依赖
-```bash
-pip install -r requirements.txt
-```
+2. 下载selenium
 
 3. 下载对应版本的 ChromeDriver
 - 查看你的 Chrome 浏览器版本
